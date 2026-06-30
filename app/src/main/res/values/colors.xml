@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="screen_background">#F8F5FF</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="on_surface">#2D2340</color>
+    <color name="on_surface_variant">#756E82</color>
+
+    <color name="primary">#6750A4</color>
+    <color name="bottom_navigation_background">#6750A4</color>
+    <color name="primary_container">#EDE5FF</color>
+    <color name="status_text">#4C3575</color>
+
+    <color name="outline">#CFC7DD</color>
+    <color name="card_stroke">#E7E0F0</color>
+    <color name="image_placeholder">#EAE4F3</color>
+
+    <!-- Kartu sengaja tetap terang agar foto dan teks mudah dibaca -->
+    <color name="card_surface">#FFFFFF</color>
+    <color name="card_title">#2D2340</color>
+    <color name="card_subtitle">#756E82</color>
+
+    <color name="nav_active">#FFFFFF</color>
+    <color name="nav_inactive">#E7DDF4</color>
+
+</resources>
