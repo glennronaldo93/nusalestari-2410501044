@@ -51,3 +51,49 @@ Aplikasi menggunakan dua tabel Room Database:
 4. Hubungkan perangkat Android atau jalankan emulator.
 5. Jalankan aplikasi.
 6. Pastikan perangkat memiliki koneksi internet saat pertama kali membuka aplikasi agar data dapat diambil dan disimpan ke Room Database.
+
+## Tampilan Aplikasi
+
+### Splash Screen
+
+![Splash Screen](screenshots/01_splash.jpeg)
+
+### Home Hewan — Light Mode
+
+![Home Hewan Light](screenshots/02_home_hewan_light.jpeg)
+
+### Home Hewan — Dark Mode
+
+![Home Hewan Dark](screenshots/03_home_hewan_dark.jpeg)
+
+### Home Tumbuhan — Light Mode
+
+![Home Tumbuhan Light](screenshots/04_home_tumbuhan_light.jpeg)
+
+### Home Tumbuhan — Dark Mode
+
+![Home Tumbuhan Dark](screenshots/05_home_tumbuhan_dark.jpeg)
+
+### Detail Spesies Hewan
+
+![Detail Hewan](screenshots/06_detail_hewan.jpeg)
+
+### Detail Spesies Tumbuhan
+
+![Detail Tumbuhan](screenshots/07_detail_tumbuhan.jpeg)
+
+### Pencarian dan Filter Region
+
+![Pencarian Region](screenshots/08_pencarian_region.jpeg)
+
+### Favorit
+
+![Favorit](screenshots/09_favorit.jpeg)
+
+### Profil Pengembang
+
+![Profil Pengembang](screenshots/10_profil_pengembang.jpeg)
+
+### Ikon Aplikasi
+
+![Ikon Aplikasi](screenshots/11_ikon_aplikasi.jpeg)
